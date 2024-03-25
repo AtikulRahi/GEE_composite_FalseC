@@ -4,4 +4,4 @@ Here I filtered out Moulvibazar sadar upazilla from the Bangladesg adminitrative
 
 [Code of False color composite Moulvibazar S.](https://github.com/AtikulRahi/GEE_composite_FalseC/blob/main/upzlaFalseColor.js)
 
-[GEE Code of False color composite Moulvibazar S.](https://code.earthengine.google.com/4244edc683b530df2c1722c526d37216)
+[GEE Code link of False color composite Moulvibazar S.](https://code.earthengine.google.com/4244edc683b530df2c1722c526d37216)
